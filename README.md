@@ -1,1 +1,3 @@
-# maestro_docking
+# Maestro_docking
+
+input: smiles, glid
